@@ -1,0 +1,12 @@
+# Local operating-system and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Local scratch work and Python caches
+/work/
+__pycache__/
+*.py[cod]
+.venv/
